@@ -38,14 +38,17 @@ monicaColor.add(white);
 monicaColor.add(purple);
 favoriteColorMonica.push(...monicaColor);
 
+// sd monica
 const sdMonica = new Object();
 sdMonica.name = "SD 01";
 sdMonica.city = "Jakarta";
 sdMonica.graduate = "2016";
+// smp monica
 const smpMonica = new Object();
 smpMonica.name = "SMP 02";
 smpMonica.city = "Jakarta";
 smpMonica.graduate = "2019";
+// sma monica
 const smaMonica = new Object();
 smaMonica.name = "SMA 03";
 smaMonica.city = "Tangerang";
@@ -65,7 +68,7 @@ monicaResto.add(sushi);
 monicaResto.add(sushi);
 favoriteRestaurantMonica.push(...monicaResto);
 
-
+// wendy
 const namaWendy = "Wendy";
 const genderWendy = "Male";
 const ageWendy = "23";
@@ -86,19 +89,16 @@ const sdWendy = new Object();
 sdWendy.name = "SD 02";
 sdWendy.city = "Jakarta";
 sdWendy.graduate = "2010";
-
 // smp wendy
 const smpWendy = new Object();
 smpWendy.name = "SMP 03";
 smpWendy.city = "Bogor";
 smpWendy.graduate = "2013";
-
 // sma wendy
 const smaWendy = new Object();
 smaWendy.name = "SMA 01";
 smaWendy.city = "Surabaya";
 smaWendy.graduate = "2016";
-
 // universitas wendy
 const univWendy = new Object();
 univWendy.name = "Universitas Majua";
